@@ -1,7 +1,7 @@
 # TriviaGame
-HW - {Trivia Game - Easy}
+HOMEWORK5 - {Trivia Game - BASIC}
 
-Live Link (If relevant)
+# Live Link
 
 
 
